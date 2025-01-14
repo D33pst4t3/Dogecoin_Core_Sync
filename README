@@ -1,7 +1,11 @@
-Windows Installation
+Installation
 
 Download all the files.
 
-Extract "blocks.zip.001" and "chainstate.zip.001" to "C:\Users\Username\AppData\Roaming\Dogecoin".
+For windows extract "blocks.zip.001" and "chainstate.zip.001" to "%APPDATA%\Dogecoin".
+
+For linux extract "blocks.zip.001" and "chainstate.zip.001" to "$HOME/.dogecoin".
+
+For macOS extract "blocks.zip.001" and "chainstate.zip.001" to "$HOME/Library/Application Support/Dogecoin".
 
 Done.
