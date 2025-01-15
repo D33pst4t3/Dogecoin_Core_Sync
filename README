@@ -2,6 +2,8 @@ Installation
 
 Download all the files.
 
+Download and install 7zip "https://www.7-zip.org/download.html".
+
 For windows extract "blocks.zip.001" and "chainstate.zip.001" to "%APPDATA%\Dogecoin".
 
 For linux extract "blocks.zip.001" and "chainstate.zip.001" to "$HOME/.dogecoin".
